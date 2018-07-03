@@ -26,6 +26,7 @@ with `Jupyter` automatically.
 ### From a local checkout
 
     pip install -e .
+    python -m ansible_kernel.install
 
 ## Usage
 
